@@ -1,0 +1,12 @@
+DBMS: It is a set of interrelated data and set of program to access those data.The primary goal of DBMS is to provide a way to store and retrive those
+      data which is both convenient and efficient.
+Database: It is collection of data relevant to an enterprise.
+Data: It is collection of raw facts and figures.There is is no role of information here.
+Information: It is the result of data processing which can help people for decision making. Data is the most important element here.
+Knowledge: It is collection of useful and interesting information. Information is the main element here.
+Data Redundancy: Redundancy of data means having same set of data many times at different locations.
+                Disadvantages: Storage space is wasted.
+                               Duplication of efforts as same data has to be manipulated at all the locations.
+                               Leads to inconsistency.
+Data Inconsitency: It is the condition in which two records reveals different information about the same entity and we are not able to judge which is 
+                   correct.
