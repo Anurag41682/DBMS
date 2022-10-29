@@ -15,4 +15,5 @@ Data Dictionary: It is the integral part of the database. It stores information 
                  application program uses the data.
 Two-Tier Architecture: A two tier architecture in dbms is a datbase architecture in which the presentation layer is present on the client side and data is
                        stored on the server called the second tier. In this there is added security as data is not exposed to end user directly.
-Three-Tier Architecture: 
+Three-Tier Architecture: A three Tier Architecture in DBMS is the most popular client server architecture in DBMS.
+                         Three Tier architecture contains a presentation layer, an application layer, and a database server.
