@@ -13,3 +13,6 @@ Data Inconsitency: It is the condition in which two records reveals different in
 Data Dictionary: It is the integral part of the database. It stores information about the database and the data it stores called metadata.It holds the 
                  information about each data element in the database. Such as names, types, range of values, access authorization, indicate which
                  application program uses the data.
+Two-Tier Architecture: A two tier architecture in dbms is a datbase architecture in which the presentation layer is present on the client side and data is
+                       stored on the server called the second tier. In this there is added security as data is not exposed to end user directly.
+Three-Tier Architecture: 
