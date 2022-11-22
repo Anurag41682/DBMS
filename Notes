@@ -32,3 +32,18 @@ Component Module of DBMS: A database system is partitioned into modules that dea
                                           2.Transaction Manager: Ensures data consistency despite system failure.
                                           3.Buffer Manager: Responsible for fetching data from disk to main memory.
                                           4.File manager: Manages allocation of space on disk storage.
+                                          
+File System: A file System is a software that manages and organizes the files in a storage medium. Storing and retrieving of data can't be done 
+            efficiently in a file system. It doesn't offer data recovery process. It doesn't have crash recovery mechanism.Protecting a file system is 
+            difficult.Redundancy of data is more. Data inconsistency is higher.No support for complicated transactions. Concurrency (multiple transaction
+            at once) control is not provided. Cost of software is cheaper.
+            
+DBMS System: A DBMS system is software to access, create and manage databases. vice-versa.
+Data models: A data models define the logical structure of database.It introduce abstraction to DBMS.It also defines how data is connected to each other
+             processed and stored inside the system.
+
+
+
+
+
+
