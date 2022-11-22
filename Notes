@@ -41,9 +41,15 @@ File System: A file System is a software that manages and organizes the files in
 DBMS System: A DBMS system is software to access, create and manage databases. vice-versa.
 Data models: A data models define the logical structure of database.It introduce abstraction to DBMS.It also defines how data is connected to each other
              processed and stored inside the system.
-
-
-
-
-
-
+Types Of Data Models:
+                     1. Hierarchical model: It is one of the oldest data model developed in 1950s by IBM.In this model Data is organized in a tree like 
+                        structure.This model has one parent and many children i.e. one to many relationship.
+                     2. Network model: It is generalization of Hierarchical data model as it provides many to many relationship therefore in this the
+                        data can have more than one parent.It can be represented as graph in which object type are nodes and relationship are edges.
+                     3. Entity relationship model: It is high level data model.It describes the structure of database in pictorial form known as ER 
+                        diagram.It represent the logical structure of the database eaisly.
+                     4. Relational model: It is the most widely used data model.In this the data is represented as a collection of rows and colums of
+                        a two dimensional table. rows are knows as tuples while the colums are represent an attributes.
+                     5. Object oriented model: It is the combination of object oriented programming and relational model.In this model the data and 
+                        their relationship is reprsented in single structure known as object.Since data is stored as object we can easily store image,
+                        videos,audios in database.
