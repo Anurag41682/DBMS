@@ -53,3 +53,9 @@ Types Of Data Models:
                      5. Object oriented model: It is the combination of object oriented programming and relational model.In this model the data and 
                         their relationship is reprsented in single structure known as object.Since data is stored as object we can easily store image,
                         videos,audios in database.
+Schemas:Schemas are the logical description of the entire database.That is, the design of the database is datbase schema and it change rarely.
+        They are different schemas partitioned according to the level of abstraction.The lower level called the internal schema, at the intermediate level
+        the conceptual or logical schema and at the highest level is the external schema or subschema.
+        Internal schema describe how the data is stored on the disk.
+        Conceptual schema describe the stucture of the database to the database designer.
+        External schema describe the structure of the databaase to the enduser.Enduser get the view of the database via external schema.
