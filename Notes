@@ -69,8 +69,10 @@ Three level Architecture of Database: It's goal is to separate the user applicat
                                         enduser.
 Data Independence: Data independence is acheived because, when a schema is changed at a certain level then the schema at the next higher level remain
                    unchanged only the mapping between the levels are changed therefore the application referring to the higher level remain unchanged.
+                   Two types:Conceptual and physical data independence.
                                         
-                                        
+Database Instance: The state of database at any particular moment of time, i.e. the collection of data and information along with various object 
+                   definition is called database instance.
       
                                       
                                       
