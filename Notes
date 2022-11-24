@@ -59,3 +59,22 @@ Schemas:Schemas are the logical description of the entire database.That is, the 
         Internal schema describe how the data is stored on the disk.
         Conceptual schema describe the stucture of the database to the database designer.
         External schema describe the structure of the databaase to the enduser.Enduser get the view of the database via external schema.
+Three level Architecture of Database: It's goal is to separate the user application and the physical database i.e. to provide data independence.
+                The three levels are: 1.Internal level: It has the ineternal schema which tell about the physical storage structure of the database and 
+                                        describe the details of the data storage.
+                                      2.Conceptual level:It has the conceptual schema which tell about the structure of the database to the community of
+                                        user and hides details about physical storage structure and concentrate on describing entities, data types and 
+                                        relationships.
+                                      3.External level:It includes the external schema which tell information about the structure of the database to the
+                                        enduser.
+Data Independence: Data independence is acheived because, when a schema is changed at a certain level then the schema at the next higher level remain
+                   unchanged only the mapping between the levels are changed therefore the application referring to the higher level remain unchanged.
+                                        
+                                        
+      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
