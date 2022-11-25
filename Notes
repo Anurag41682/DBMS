@@ -88,5 +88,20 @@ DML: It is a language that helps us to modify the database instance by inserting
      2.Non-Procedural: only what is known.
                                       
 DCL: It helps us to give or to take access from various tables to different users.There are two type of commands in it namely grant and revoke.
-                                      
-                                      
+
+DBA: Database administrator is the person who provides technical support for implementing the policy decision regarding the data of enterprise.
+     It is responsible for the overall control of the system at the technical level.
+Functions of DBA: 1.Schema Defintion: The DBA creates the Original database schema by executing data defintion statements in DDL.
+                                      a.Defining the conceptual schema.
+                                      b.Defining the internal schema.
+                  2.Storage structure and access method definition:The DBA creates the storage structure and access method by writing a set of defintion.
+                  3.Security: The database can have multiple user to it so it is the responsibilty of DBA to ensure that every user cannot access the data
+                              so it provide unique password to each user.
+                  4.Managing Data dictionary:
+                  5.Monitoring DBMS performance:It is the responisibility of DBA to create such a DBMS which is best for organization and also have 
+                    regular maintenance activities which ensures the better performance of DBMS.
+                  6.Backup and recovery: The DBA is responsible for making sure that the DBMS is faciliated with various backup and recovery schemas.
+
+
+
+
