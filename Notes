@@ -102,6 +102,6 @@ Functions of DBA: 1.Schema Defintion: The DBA creates the Original database sche
                     regular maintenance activities which ensures the better performance of DBMS.
                   6.Backup and recovery: The DBA is responsible for making sure that the DBMS is faciliated with various backup and recovery schemas.
 
-
+Domain Constraint: This are the most elementary form of Integrity constraint.It is tesed easily by the system when a data is entered into the database.
 
 
