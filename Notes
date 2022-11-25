@@ -104,4 +104,5 @@ Functions of DBA: 1.Schema Defintion: The DBA creates the Original database sche
 
 Domain Constraint: This are the most elementary form of Integrity constraint.It is tesed easily by the system when a data is entered into the database.
 
-
+ER Model: It is the graphical represententation of the database logic and include the detailed description of all the entities,relationship and constraints.
+Entity: An Entity is a thing in the real world with independent existence.The entitiy may be an object with physical(person) or conceptual existence(company).
