@@ -73,10 +73,20 @@ Data Independence: Data independence is acheived because, when a schema is chang
                                         
 Database Instance: The state of database at any particular moment of time, i.e. the collection of data and information along with various object 
                    definition is called database instance.
-      
+DDL: The database schema is specified by a set of definition expressed by a special language called data definition language. It help us to create,drop,
+     alter and truncate the database.
+     Example:     CREATE TABLE Persons (
+                      PersonID int,
+                      LastName varchar(255),
+                      FirstName varchar(255),
+                      Address varchar(255),
+                      City varchar(255)
+                  );
                                       
+DML: It is a language that helps us to modify the database instance by inserting,updating and deleting its data.There are two types of DML
+     1.Procedural DML:what and how is known.
+     2.Non-Procedural: only what is known.
                                       
-                                      
-                                      
+DCL: It helps us to give or to take access from various tables to different users.There are two type of commands in it namely grant and revoke.
                                       
                                       
