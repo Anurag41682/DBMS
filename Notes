@@ -106,3 +106,18 @@ Domain Constraint: This are the most elementary form of Integrity constraint.It 
 
 ER Model: It is the graphical represententation of the database logic and include the detailed description of all the entities,relationship and constraints.
 Entity: An Entity is a thing in the real world with independent existence.The entitiy may be an object with physical(person) or conceptual existence(company).
+Attribute: Each entity can have properties that describe it this is called attribute. Example- Entity person can have name as attribute.
+
+Weak Entity:Those entity which do not have enough attribute to form a primary key are called Weak Entity.They are represented by double Rectangle.
+            they have partial discriminator key. Relationship between weak and strong entity is represented by double diamond .It is dependent on
+            strong entity. It always has total participation.
+Strong Entity: They have enough attribute to form a primary key. The are represented by single rectangle. The are not depedent on any other entity.
+               they may or may not have total participation.relationship between two strong entity is represetend by single diamond.
+            
+            
+            
+            
+            
+            
+
+
