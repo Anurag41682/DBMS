@@ -113,7 +113,8 @@ Weak Entity:Those entity which do not have enough attribute to form a primary ke
             strong entity. It always has total participation.
 Strong Entity: They have enough attribute to form a primary key. The are represented by single rectangle. The are not depedent on any other entity.
                they may or may not have total participation.relationship between two strong entity is represetend by single diamond.
-            
+Entity Type: The collection of all the entities having same attribute.
+Entity Set: The collection of all the entities of particular entity type at a given point of time is called entity set.
             
             
             
